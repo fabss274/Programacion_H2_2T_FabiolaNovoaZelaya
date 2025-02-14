@@ -1,0 +1,37 @@
+#formulario{
+    display: box;
+    width: 30%;
+    margin-left: 34%;
+}
+#tablatareas{
+    display:Box;
+    width: 46%;
+    margin-left: 30%;
+}
+#boton1{
+    display:Box;
+    width: 46%;
+    margin-left: 30%;
+}
+#boton2{
+     display:Box;
+    width: 46%;
+    margin-left: 30%;
+}
+#boton3{
+     display:Box;
+    width: 46%;
+    margin-left: 30%;
+}
+
+#descripciontareas{
+    display:Box;
+    width: 46%;
+    margin-left: 30%;
+}
+
+#boton2tareas {
+    display:Box;
+    width: 46%;
+    margin-left: 30%;
+}
